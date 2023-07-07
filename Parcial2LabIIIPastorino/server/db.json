@@ -1,0 +1,36 @@
+{
+  "superheroes": [
+    {
+      "id": 1688747262144,
+      "nombre": "Clark",
+      "fuerza": 100,
+      "alias": "Superman",
+      "editorial": "DC",
+      "arma": "Armadura"
+    },
+    {
+      "id": 1688747286094,
+      "nombre": "Tony",
+      "fuerza": 13,
+      "alias": "Ironman",
+      "editorial": "Marvel",
+      "arma": "Armadura"
+    },
+    {
+      "id": 1688747310784,
+      "nombre": "Bruce",
+      "fuerza": 95,
+      "alias": "Hulk",
+      "editorial": "Marvel",
+      "arma": "Arma de Fuego"
+    },
+    {
+      "id": 1688747335683,
+      "nombre": "Diana",
+      "fuerza": 73,
+      "alias": "Wonder Woman",
+      "editorial": "DC",
+      "arma": "Martillo"
+    }
+  ]
+}
